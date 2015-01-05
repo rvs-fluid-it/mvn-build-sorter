@@ -1,4 +1,4 @@
-package org.jenkinsci.plugins.mvnbuildsorter;
+package org.jenkinsci.plugins.buildsorter;
 import hudson.Launcher;
 import hudson.Extension;
 import hudson.util.FormValidation;
